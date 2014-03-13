@@ -1,5 +1,3 @@
-C:\TCTest\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-C:\TCTest\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
 C:\TCTest\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary2.dll
 C:\TCTest\ClassLibrary1\ClassLibrary1\bin\Debug\FluentAssertions.dll
 C:\TCTest\ClassLibrary1\ClassLibrary1\bin\Debug\Machine.Fakes.Adapters.RhinoMocks.dll
@@ -14,5 +12,7 @@ C:\TCTest\ClassLibrary1\ClassLibrary1\bin\Debug\Machine.Fakes.xml
 C:\TCTest\ClassLibrary1\ClassLibrary1\bin\Debug\Machine.Fakes.Adapters.RhinoMocks.xml
 C:\TCTest\ClassLibrary1\ClassLibrary1\bin\Debug\Rhino.Mocks.xml
 C:\TCTest\ClassLibrary1\ClassLibrary1\obj\Debug\Tests.csprojResolveAssemblyReference.cache
-C:\TCTest\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-C:\TCTest\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\TCTest\ClassLibrary1\ClassLibrary1\bin\Debug\Tests.dll
+C:\TCTest\ClassLibrary1\ClassLibrary1\bin\Debug\Tests.pdb
+C:\TCTest\ClassLibrary1\ClassLibrary1\obj\Debug\Tests.dll
+C:\TCTest\ClassLibrary1\ClassLibrary1\obj\Debug\Tests.pdb
